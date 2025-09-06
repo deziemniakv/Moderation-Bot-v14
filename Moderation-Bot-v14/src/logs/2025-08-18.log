@@ -1,0 +1,99 @@
+[2025-08-18T06:46:05.436Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-08-18T06:46:05.912Z] [DEBUG] Zsynchronizowano kanały dla serwera: ForgeVot Studio
+[2025-08-18T06:46:06.187Z] [DEBUG] Zsynchronizowano kanały dla serwera: Moving Simulator | Roblox
+[2025-08-18T06:46:06.191Z] [NORMAL] Loaded command: createticketpanel
+[2025-08-18T06:46:06.192Z] [NORMAL] Started refreshing application (/) commands.
+[2025-08-18T06:46:06.575Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-08-18T06:46:06.576Z] [NORMAL] Loaded event: guildMemberAdd
+[2025-08-18T06:46:06.577Z] [NORMAL] Loaded event: guildMemberRemove
+[2025-08-18T06:46:06.578Z] [NORMAL] Loaded event: interactionCreate
+[2025-08-18T06:46:06.579Z] [NORMAL] Loaded event: ready
+[2025-08-18T06:46:06.580Z] [NORMAL] Loaded event: ticketInteraction
+[2025-08-18T06:46:06.581Z] [NORMAL] Loaded button: log_delete
+[2025-08-18T06:46:06.582Z] [NORMAL] Loaded button: log_info
+[2025-08-18T06:46:06.583Z] [NORMAL] Loaded button: ticket_add
+[2025-08-18T06:46:06.584Z] [NORMAL] Loaded button: ticket_close
+[2025-08-18T06:46:06.585Z] [NORMAL] Loaded button: ticket_create
+[2025-08-18T06:46:06.586Z] [NORMAL] Loaded button: ticket_remove
+[2025-08-18T06:46:06.587Z] [NORMAL] Loaded button: ticket_rename
+[2025-08-18T06:46:06.587Z] [NORMAL] Bot został pomyślnie zainicjalizowany!
+[2025-08-18T06:46:33.625Z] [DEBUG] Użytkownik polskiziemniakk (1034530845790314557) użył komendy /createticketpanel na serwerze Moving Simulator | Roblox
+[2025-08-18T06:46:33.996Z] [DEBUG] /createticketpanel wykonano przez polskiziemniakk
+[2025-08-18T06:46:50.523Z] [DEBUG] Użytkownik polskiziemniakk (1034530845790314557) użył komendy /createticketpanel na serwerze Moving Simulator | Roblox
+[2025-08-18T06:46:51.474Z] [DEBUG] /createticketpanel wykonano przez polskiziemniakk
+[2025-08-18T06:46:54.565Z] [DEBUG] Found existing category by ID: ❗︙TICKETS (1404041960045674637)
+[2025-08-18T06:58:08.866Z] [DEBUG] Wysłano wiadomość pożegnalną dla ModMail#8513
+[2025-08-18T06:58:37.126Z] [DEBUG] Wysłano wiadomość powitalną dla ModMail#8513
+[2025-08-18T06:59:08.031Z] [DEBUG] Wysłano wiadomość pożegnalną dla Ticket Tool#4843
+[2025-08-18T07:02:13.979Z] [DEBUG] Found existing category by ID: ❗︙TICKETS (1404041960045674637)
+[2025-08-18T07:25:02.560Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-08-18T07:25:03.170Z] [DEBUG] Zsynchronizowano kanały dla serwera: ForgeVot Studio
+[2025-08-18T07:25:03.420Z] [DEBUG] Zsynchronizowano kanały dla serwera: Moving Simulator | Roblox
+[2025-08-18T07:25:03.423Z] [NORMAL] Loaded command: createticketpanel
+[2025-08-18T07:25:03.424Z] [NORMAL] Started refreshing application (/) commands.
+[2025-08-18T07:25:03.837Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-08-18T07:25:03.838Z] [NORMAL] Loaded event: guildMemberAdd
+[2025-08-18T07:25:03.839Z] [NORMAL] Loaded event: guildMemberRemove
+[2025-08-18T07:25:03.840Z] [NORMAL] Loaded event: interactionCreate
+[2025-08-18T07:25:03.841Z] [NORMAL] Loaded event: ready
+[2025-08-18T07:25:03.842Z] [NORMAL] Loaded event: ticketInteraction
+[2025-08-18T07:25:03.843Z] [NORMAL] Loaded button: log_delete
+[2025-08-18T07:25:03.844Z] [NORMAL] Loaded button: log_info
+[2025-08-18T07:25:03.845Z] [NORMAL] Loaded button: ticket_add
+[2025-08-18T07:25:03.846Z] [NORMAL] Loaded button: ticket_close
+[2025-08-18T07:25:03.847Z] [NORMAL] Loaded button: ticket_create
+[2025-08-18T07:25:03.848Z] [NORMAL] Loaded button: ticket_remove
+[2025-08-18T07:25:03.849Z] [NORMAL] Loaded button: ticket_rename
+[2025-08-18T07:25:03.849Z] [NORMAL] Bot został pomyślnie zainicjalizowany!
+[2025-08-18T07:25:21.064Z] [DEBUG] Użytkownik polskiziemniakk (1034530845790314557) użył komendy /createticketpanel na serwerze Moving Simulator | Roblox
+[2025-08-18T07:25:21.804Z] [DEBUG] /createticketpanel wykonano przez polskiziemniakk
+[2025-08-18T07:25:26.225Z] [DEBUG] Found existing category by ID: ❗︙TICKETS (1404041960045674637)
+[2025-08-18T07:26:46.998Z] [DEBUG] Found existing category by ID: ❗︙TICKETS (1404041960045674637)
+[2025-08-18T07:32:02.993Z] [DEBUG] Found existing category by ID: ❗︙TICKETS (1404041960045674637)
+[2025-08-18T07:46:06.626Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-08-18T07:46:07.215Z] [DEBUG] Zsynchronizowano kanały dla serwera: ForgeVot Studio
+[2025-08-18T07:46:07.461Z] [DEBUG] Zsynchronizowano kanały dla serwera: Moving Simulator | Roblox
+[2025-08-18T07:46:07.464Z] [NORMAL] Loaded command: createticketpanel
+[2025-08-18T07:46:07.465Z] [NORMAL] Started refreshing application (/) commands.
+[2025-08-18T07:46:07.823Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-08-18T07:46:07.824Z] [NORMAL] Loaded event: guildMemberAdd
+[2025-08-18T07:46:07.825Z] [NORMAL] Loaded event: guildMemberRemove
+[2025-08-18T07:46:07.826Z] [NORMAL] Loaded event: interactionCreate
+[2025-08-18T07:46:07.827Z] [NORMAL] Loaded event: ready
+[2025-08-18T07:46:07.828Z] [NORMAL] Loaded event: ticketInteraction
+[2025-08-18T07:46:07.829Z] [NORMAL] Loaded button: log_delete
+[2025-08-18T07:46:07.830Z] [NORMAL] Loaded button: log_info
+[2025-08-18T07:46:07.831Z] [NORMAL] Loaded button: ticket_add
+[2025-08-18T07:46:07.832Z] [NORMAL] Loaded button: ticket_close
+[2025-08-18T07:46:07.833Z] [NORMAL] Loaded button: ticket_create
+[2025-08-18T07:46:07.834Z] [NORMAL] Loaded button: ticket_remove
+[2025-08-18T07:46:07.835Z] [NORMAL] Loaded button: ticket_rename
+[2025-08-18T07:46:07.835Z] [NORMAL] Bot został pomyślnie zainicjalizowany!
+[2025-08-18T07:52:24.021Z] [DEBUG] Użytkownik polskiziemniakk (1034530845790314557) użył komendy /createticketpanel na serwerze Moving Simulator | Roblox
+[2025-08-18T07:52:24.756Z] [DEBUG] /createticketpanel made by polskiziemniakk
+[2025-08-18T07:52:35.715Z] [DEBUG] Found existing category by ID: ❗︙TICKETS (1404041960045674637)
+[2025-08-18T08:08:36.818Z] [DEBUG] Wysłano wiadomość pożegnalną dla wqzzz23
+[2025-08-18T08:09:09.980Z] [DEBUG] Wysłano wiadomość powitalną dla wqzzz23
+[2025-08-18T08:13:49.049Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-08-18T08:13:49.657Z] [DEBUG] Zsynchronizowano kanały dla serwera: Moving Simulator | Roblox
+[2025-08-18T08:13:49.661Z] [NORMAL] Loaded command: createticketpanel
+[2025-08-18T08:13:49.661Z] [NORMAL] Started refreshing application (/) commands.
+[2025-08-18T08:13:49.965Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-08-18T08:13:49.967Z] [NORMAL] Loaded event: guildMemberAdd
+[2025-08-18T08:13:49.968Z] [NORMAL] Loaded event: guildMemberRemove
+[2025-08-18T08:13:49.969Z] [NORMAL] Loaded event: interactionCreate
+[2025-08-18T08:13:49.969Z] [NORMAL] Loaded event: ready
+[2025-08-18T08:13:49.970Z] [NORMAL] Loaded event: ticketInteraction
+[2025-08-18T08:13:49.972Z] [NORMAL] Loaded button: log_delete
+[2025-08-18T08:13:49.973Z] [NORMAL] Loaded button: log_info
+[2025-08-18T08:13:49.974Z] [NORMAL] Loaded button: ticket_add
+[2025-08-18T08:13:49.975Z] [NORMAL] Loaded button: ticket_close
+[2025-08-18T08:13:49.975Z] [NORMAL] Loaded button: ticket_create
+[2025-08-18T08:13:49.976Z] [NORMAL] Loaded button: ticket_remove
+[2025-08-18T08:13:49.977Z] [NORMAL] Loaded button: ticket_rename
+[2025-08-18T08:13:49.978Z] [NORMAL] Bot został pomyślnie zainicjalizowany!
+[2025-08-18T08:14:45.906Z] [DEBUG] Użytkownik polskiziemniakk (1034530845790314557) użył komendy /createticketpanel na serwerze Moving Simulator | Roblox
+[2025-08-18T08:14:46.559Z] [DEBUG] /createticketpanel made by polskiziemniakk
+[2025-08-18T08:14:55.964Z] [DEBUG] Wysłano wiadomość pożegnalną dla wqzzz23
+[2025-08-18T08:15:12.097Z] [DEBUG] Wysłano wiadomość powitalną dla wqzzz23
+[2025-08-18T08:29:07.812Z] [DEBUG] Found existing category by ID: ❗︙TICKETS (1404041960045674637)

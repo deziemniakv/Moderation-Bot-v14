@@ -1,0 +1,49 @@
+{
+    "logLevel": "DEBUG",
+    
+    "logging": {
+        "console": true,     
+        "file": true,        
+        "directory": "logs"  
+    },
+
+    "token": "PASTE_YOUR_TOKEN",
+
+    "tickets": {
+        "staffRole": "1234567890123456789",    
+        "adminRole": "1234567890123456789",    
+        "loggingChannel": "1234567890123456789",  
+        
+        "categories": {
+            "support": {
+                "name": "🎟️ Help",  
+                "categoryId": "1234567890123456789",  
+                "description": "Need help? Click here!"  
+            },
+            "report": {
+                "name": "🔗 Submissions",
+                "categoryId": "1234567890123456789",
+                "description": "Report a player or bug"
+            }
+        }
+    },
+
+    "welcome": {
+        "enabled": true,
+        "channel": "1234567890123456789",  
+        
+
+        "messages": {
+            "welcome": "# Hello 👋\n☘️〢Let's welcome a new user {user}!\n👥〢Currently there are us: **{count}**",
+            "leave": "# Bye👋\n✨〢Let's say goodbye to the user: {user}\n👥〢Currently there are us: **{count}**"
+        },
+        
+        "color": {
+            "welcome": "#00ff00",  
+            "leave": "#ff0000"     
+        },
+        
+        "thumbnail": true,      
+        "showTimestamp": true   
+    }
+}
