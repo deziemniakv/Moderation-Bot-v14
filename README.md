@@ -1,6 +1,6 @@
 # Discord Moderation Bot
 
-A moderation bot for Discord written in [Node.js / Python] (please specify which one you're using).
+A moderation bot for Discord written in Node.js (please specify which one you're using).
 It automates server moderation – it includes commands for user management and community protection.
 
 ## Features
