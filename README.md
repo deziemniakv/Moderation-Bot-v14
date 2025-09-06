@@ -30,6 +30,3 @@ It automates server moderation – it includes commands for user management and 
 ```bash
 node .     # Node.js
 ```
-
-
-```
