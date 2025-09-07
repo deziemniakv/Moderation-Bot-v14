@@ -26,7 +26,7 @@ class WelcomeManager {
                 );
 
             if (this.config.thumbnail) {
-                welcomeEmbed.setThumbnail("https://media.discordapp.net/attachments/1383370082595639338/1413636116485116045/Screenshot_2025-07-07-10-01-44-105_com.facebook.katana.jpg?ex=68bca6ba&is=68bb553a&hm=e8f143d769cdfe8fb2d18cabf665aa6a853ad4b5f64510d99c1c6d6da0b18a37&=&format=webp&width=421&height=959");
+                welcomeEmbed.setThumbnail(member.user.displayAvatarURL({ dynamic: true, size: 512 }));
             }
 
             if (this.config.showTimestamp) {
@@ -60,7 +60,7 @@ class WelcomeManager {
                 );
 
             if (this.config.thumbnail) {
-                leaveEmbed.setThumbnail("https://media.discordapp.net/attachments/1383370082595639338/1413636116485116045/Screenshot_2025-07-07-10-01-44-105_com.facebook.katana.jpg?ex=68bca6ba&is=68bb553a&hm=e8f143d769cdfe8fb2d18cabf665aa6a853ad4b5f64510d99c1c6d6da0b18a37&=&format=webp&width=421&height=959");
+                leaveEmbed.setThumbnail(member.user.displayAvatarURL({ dynamic: true, size: 512 }));
             }
 
             if (this.config.showTimestamp) {
@@ -74,5 +74,6 @@ class WelcomeManager {
         }
     }
 }
+
 
 module.exports = WelcomeManager; 
